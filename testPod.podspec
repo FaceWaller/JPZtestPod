@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/facewaller/testPod'
+  s.homepage         = 'https://github.com/FaceWaller/1.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'facewaller' => 'jiangpengzhi@moqipobing.com' }
-  s.source           = { :git => 'https://github.com/facewaller/testPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/facewaller/1', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
